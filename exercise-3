@@ -1,0 +1,1 @@
+sameAge will be set to "No!" because myAge and yourAge do not have strict equality values.  33 is a number and '33' is a string.
